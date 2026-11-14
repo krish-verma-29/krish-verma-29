@@ -1,130 +1,47 @@
- <div align="center">
+# 💫 About Me
 
-<img src="./assets/github-banner.png" width="100%" alt="Krish Verma - App Developer and AI Enthusiast"/>
+💻 B.Tech IT Student | Aspiring App & AI Developer  
+🚀 Building Real-World Projects  
+🌱 Learning Python, Flutter, Dart & DSA  
+🎯 Interested in AI Integration and App Development
 
-# Hi, I'm Krish Verma 👋
+## 🌐 Socials
 
-### B.Tech IT Student | Aspiring App Developer
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18SPHGneGv/)
 
-**Flutter & Dart • Python • DSA • C++ • AI Enthusiast**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me__krishhh/)
 
-Building ideas into real-world applications 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-verma-401532354/)
 
-<a href="https://krishverma.online">Portfolio</a> •
-<a href="https://linkedin.com/in/krish-verma-401532354">LinkedIn</a> •
-<a href="mailto:krishv786017@gmail.com">Email</a>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Krishtwit19)
 
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishv786017@gmail.com)
 
----
+## 💻 Tech Stack
 
-## 👨‍💻 About Me
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
-I'm a B.Tech Information Technology student passionate about mobile application development, problem-solving and emerging technologies.
+## 📊 GitHub Stats
 
-- 🎓 Pursuing B.Tech in Information Technology.
-- 📱 Learning Flutter & Dart for mobile app development.
-- 🐍 Learning Python and practicing Data Structures & Algorithms.
-- 💻 Practicing DSA and problem-solving using C++.
-- 🤖 Interested in AI integration and intelligent applications.
-- 🔥 Exploring Firebase, REST APIs and backend development.
-- 🚀 Building practical projects and continuously improving my skills.
+![](https://github-readme-stats.shion.dev/api?username=krish-verma-29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-**Goal:** To become a skilled Software and App Developer.
+![](https://streak-stats.demolab.com/?user=krish-verma-29&theme=dark&hide_border=false)
 
----
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=krish-verma-29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Tech Stack
+### ✍️ Random Dev Quote
 
-### Programming & App Development
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-### Backend & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-</p>
-
-### Currently Learning
-
-- Flutter & Dart — Mobile App Development
-- Python — Programming and DSA
-- C++ — Data Structures & Algorithms
-- API Integration and Firebase
-- AI Integration in Applications
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌦️ Weather Application — In Progress
-
-Currently working on a weather-based mobile application.
-
-**Planned Features:**
-- Dynamic weather-based UI
-- Real-time weather information
-- Weather API integration
-- Firebase and backend integration
-- AI-powered features
-
-**Technologies:** Flutter • Dart • Weather API • Firebase
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish-verma-29&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=krish-verma-29&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-verma-29&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.instagram.com/me__krishhh/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/krish-verma-401532354">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Krishtwit19">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:krishv786017@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Always Learning. Always Building.
-
-**Thanks for visiting my profile! ⭐**
-
-</div>
+[![](https://komarev.com/ghpvc/?username=krish-verma-29&icon=0&color=0)](https://visitcount.itsvg.in)
