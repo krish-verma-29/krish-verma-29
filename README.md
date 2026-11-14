@@ -54,7 +54,7 @@
 ---
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
-
+</br>
 <p align="center">
   <a href="https://t.me/Krish7747">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+</br>
 ---
 
 <h2 align="center">💻 TECH STACK</h2>
@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TECHNOLOGIES-C1F0C1?style=for-the-badge&labelColor=0d1117" />
 </p>
-
+</br>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -99,7 +99,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
 </p>
-
+</br>
 ---
 
 <h2 align="center">📊 GITHUB STATISTICS</h2>
@@ -107,7 +107,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-98FB98?style=for-the-badge&labelColor=0d1117" />
 </p>
-
+</br>
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish-verma-29&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=21600&title_color=90EE90&text_color=c9d1d9&icon_color=90EE90" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=krish-verma-29&theme=transparent&hide_border=true&ring=90EE90&fire=A8E6CF&currStreakLabel=90EE90" />
@@ -116,11 +116,11 @@
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-verma-29&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600&title_color=90EE90&text_color=c9d1d9" />
 </p>
-
+</br>
 ---
 
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
-
+</br>
 <p align="center">
   <img src="https://img.shields.io/badge/DAILY%20CONTRIBUTIONS-90EE90?style=for-the-badge&labelColor=0d1117" />
 </p>
@@ -128,9 +128,9 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/90EE90/krish-verma-29" alt="Krish's GitHub Contribution Graph" width="100%" />
 </p>
-
+</br>
 ---
-
+</br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krish-verma-29&color=90EE90&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
