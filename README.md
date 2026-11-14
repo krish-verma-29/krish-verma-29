@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/AI%20%26%20App-Developer-A8E6CF?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<p align="center">
+
   💻 B.Tech IT Student | Aspiring App & AI Developer
   <br/>
   🚀 Building Real-World Projects
@@ -15,7 +15,7 @@
   🌱 Learning Python, Flutter, Dart & DSA
   <br/>
   🎯 Interested in AI Integration and App Development
-</p>
+
 
 ---
 
