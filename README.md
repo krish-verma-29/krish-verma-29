@@ -1,21 +1,27 @@
-<h1>💫 ABOUT ME</h1>
+<h1 align="center">💫 ABOUT ME</h1>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/B.Tech-IT%20Student-90EE90?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/AI%20%26%20App-Developer-A8E6CF?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-- 💻 B.Tech IT Student | Aspiring App & AI Developer
-- 🚀 Building real-world projects
-- 🌱 Learning Python, Flutter, Dart & DSA
-- 🎯 Interested in AI integration and app development
-- 📫 Reach me on [Telegram](https://t.me/Krish7747)
+<p align="center">
+  💻 B.Tech IT Student | Aspiring App & AI Developer
+  <br/>
+  🚀 Building Real-World Projects
+  <br/>
+  🌱 Learning Python, Flutter, Dart & DSA
+  <br/>
+  🎯 Interested in AI Integration and App Development
+  <br/>
+  📫 Reach me on <a href="https://t.me/Krish7747">Telegram</a>
+</p>
 
 ---
 
-<h2>🚀 WHAT I'M WORKING ON</h2>
+<h2 align="center">🚀 WHAT I'M WORKING ON</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/CURRENT%20PROJECTS-A8E6CF?style=for-the-badge&labelColor=0d1117" />
 </p>
 
