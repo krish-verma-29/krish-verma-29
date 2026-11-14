@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/B.Tech-IT%20Student-90EE90?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/AI%20%26%20App-Developer-A8E6CF?style=for-the-badge&labelColor=0d1117" />
 </p>
+</br>
 
 <p align="center">
   💻 B.Tech IT Student | Aspiring App & AI Developer
@@ -16,7 +17,6 @@
   
 </p>
 </br>
-</br>
 
 ---
 
@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CURRENT%20PROJECTS-A8E6CF?style=for-the-badge&labelColor=0d1117" />
 </p>
+</br>
 
 <p align="center">
 - 🌦️ Building a Weather App *(in progress)*
@@ -32,7 +33,7 @@
 - 🐍 Improving Python and DSA skills
 - 🤖 Exploring AI integration in applications
 </p>
-
+</br>
 ---
 
 <h2 align="center">🎯 CURRENT GOALS</h2>
@@ -40,6 +41,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MY%20GOALS-BDFCC9?style=for-the-badge&labelColor=0d1117" />
 </p>
+</br>
 
 <p align="center">
   🧠 Strengthen Data Structures & Algorithms<br/>
@@ -48,7 +50,7 @@
   🧩 Improve problem-solving skills<br/>
   🤝 Contribute to GitHub projects
 </p>
-
+</br>
 ---
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
