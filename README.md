@@ -13,8 +13,7 @@
   🌱 Learning Python, Flutter, Dart & DSA
   <br/>
   🎯 Interested in AI Integration and App Development
-  <br/>
-  📫 Reach me on <a href="https://t.me/Krish7747">Telegram</a>
+  
 </p>
 
 ---
