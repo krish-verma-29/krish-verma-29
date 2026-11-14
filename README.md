@@ -5,16 +5,27 @@
 🌱 Learning Python, Flutter, Dart & DSA  
 🎯 Interested in AI Integration and App Development
 
+## 🚀 What I'm Working On
+
+- 📱 Learning Flutter & Dart for App Development
+- 🐍 Improving Python and DSA skills
+- 🌦️ Building a Weather App (In Progress)
+- 🤖 Exploring AI Integration in Applications
+
+## 🎯 Current Goals
+
+- Strengthening Data Structures & Algorithms
+- Building real-world Flutter applications
+- Learning API Integration and Firebase
+- Improving problem-solving skills
+- Contributing to GitHub projects
+
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18SPHGneGv/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me__krishhh/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-verma-401532354/)
-
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Krishtwit19)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishv786017@gmail.com)
 
 ## 💻 Tech Stack
@@ -38,10 +49,16 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=krish-verma-29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## 📈 Contribution Graph
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Krish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krish-verma-29&theme=react-dark)](https://github.com/krish-verma-29)
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=krish-verma-29&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krish-verma-29&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <b>✨ Keep Learning | Keep Building | Keep Growing ✨</b>
+</p>
