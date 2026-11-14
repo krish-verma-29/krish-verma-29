@@ -1,18 +1,19 @@
-# 💫 About Me
+<h1 align="center">💫 ABOUT ME</h1>
 
 💻 B.Tech IT Student | Aspiring App & AI Developer  
 🚀 Building Real-World Projects  
 🌱 Learning Python, Flutter, Dart & DSA  
 🎯 Interested in AI Integration and App Development
 
-## 🚀 What I'm Working On
+<h2 align="center">🚀 WHAT I'M WORKING ON</h2>
 
 - 📱 Learning Flutter & Dart for App Development
 - 🐍 Improving Python and DSA skills
 - 🌦️ Building a Weather App (In Progress)
 - 🤖 Exploring AI Integration in Applications
 
-## 🎯 Current Goals
+<h2 align="center">🎯 CURRENT GOALS</h2>
+
 
 - Strengthening Data Structures & Algorithms
 - Building real-world Flutter applications
@@ -20,7 +21,7 @@
 - Improving problem-solving skills
 - Contributing to GitHub projects
 
-## 🌐 Socials
+<h2 align="center">🌐 SOCIAL LINKS</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18SPHGneGv/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me__krishhh/)
@@ -28,7 +29,8 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Krishtwit19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishv786017@gmail.com)
 
-## 💻 Tech Stack
+<h2 align="center">💻 TECH STACK</h2>
+
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +43,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 ![](https://github-readme-stats.shion.dev/api?username=krish-verma-29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -49,9 +51,9 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=krish-verma-29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📈 Contribution Graph
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
 
-[![Krish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krish-verma-29&theme=react-dark)](https://github.com/krish-verma-29)
+![Contribution Graph](https://ghchart.rshah.org/409ba5/krish-verma-29)
 
 ---
 
