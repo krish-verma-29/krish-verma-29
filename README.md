@@ -25,10 +25,12 @@
   <img src="https://img.shields.io/badge/CURRENT%20PROJECTS-A8E6CF?style=for-the-badge&labelColor=0d1117" />
 </p>
 
+<p align="center">
 - 🌦️ Building a Weather App *(in progress)*
 - 📱 Learning Flutter & Dart for app development
 - 🐍 Improving Python and DSA skills
 - 🤖 Exploring AI integration in applications
+</p>
 
 ---
 
