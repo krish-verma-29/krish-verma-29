@@ -15,6 +15,8 @@
   🎯 Interested in AI Integration and App Development
   
 </p>
+</br>
+</br>
 
 ---
 
@@ -54,6 +56,9 @@
 <p align="center">
   <a href="https://t.me/Krish7747">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+    <a href="https://leetcode.com/u/Krish1929">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.instagram.com/me__krishhh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
